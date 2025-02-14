@@ -28,8 +28,8 @@ Desarrollar un programa en Python que analice y visualice sistemas de ecuaciones
 - https://colab.research.google.com/drive/10NEq7c-dH3tjIFN03-T-4877jskhW3eM?usp=sharing
 - https://github.com/Ariel98-lab/micro_proyect_final-.git
 # Documentación
-- Comentarios detallados del código
-- Explicación paso a paso de la solución matemática
+- Comentarios detallados del código: revisar documento word Trabajo_Grupo 3(2)
+- Explicación paso a paso de la solución matemática: revisar documento word Trabajo_Grupo 3(2)
 - Referencias a recursos utilizados (enlaces, videos, visualizaciones)
    -https://relopezbriega.github.io/blog/2015/06/14/algebra-lineal-con-python/
    -https://www.youtube.com/watch?v=Z7es8SMpiHY
